@@ -63,17 +63,13 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 ---
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
+### Big-O
 @snapend
 
-@snap[west span-55]
-### Teacher Talk
-@snapend
-@snap[west span-55]
 <h6 align="left">Search, Access, Insertion and Deletion</h6>
 ```python zoom-18"
 O(n)	O(n)	O(1)	O(1)
 ```
-@snapend
 @snap[south span-90 text-gray text-18]
 @[1-5](Deletion "from the end"!)
 @[6,7, zoom-13](if you have a Singly Linked List without a tail Deletion will be `O(n)`.)
