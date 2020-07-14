@@ -1,5 +1,3 @@
-theme-background : [ "green" ]
-
 # Let's Get **Started**
 
 ---
