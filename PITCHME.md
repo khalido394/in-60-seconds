@@ -16,16 +16,12 @@
 By the end of class, students will be able to:
 - Compare and contrast between Array (List) vs. Linked List.
 - Differentiate between Static Arrays (Lists), Dynamic Arrays (Lists).
-- Understand Memory allocation, and the Linked List is not contiguous in like the arrays.
+- Understand Memory allocation, Linked List is not contiguous.
 @ulend
 @snapend
 
 @snap[east span-45]
 ![IMAGE](assets/img/conference.png)
-@snapend
-
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
 @snapend
 
 ---
