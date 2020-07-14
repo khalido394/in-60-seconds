@@ -70,7 +70,8 @@ Let your code do the talking!
 ```python zoom-18"
 O(n)	O(n)	O(1)	O(1)
 ```
-<p align="left">P.S. Deletion "from the end"!
+<br>
+<p align="left">Deletion "from the end"!
 if you have a Singly Linked List without tail Deletion will be `O(n)`.
 </p>
 
