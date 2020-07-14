@@ -12,7 +12,7 @@
 
 @snap[west span-55]
 @ul[list-hide-fragments text-09]
-You will be able to:
+By the end of class, you will be able to:
 - Compare and contrast between Array (List) vs. Linked List.
 - Differentiate between Static Arrays, Dynamic Arrays.
 - Understand Memory allocation, and Linked List is not contiguous.
