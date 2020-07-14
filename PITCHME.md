@@ -59,7 +59,7 @@
 @snapend
 
 ---?color=linear-gradient(180deg, white 97%, #73A2DB 3%)
-@snap[east span-25]
+@snap[center span-25]
 #### Memory allocation
 @snapend
 
