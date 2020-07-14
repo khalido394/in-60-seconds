@@ -40,13 +40,6 @@ By the end of class, students will be able to:
 @ulend
 @snapend
 
-@snap[east span-45]
-![IMAGE](assets/img/conference.png)
-@snapend
-
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
-@snapend
 ### Teacher Talk
 ![IMAGE](assets/img/presentation.png)
 
