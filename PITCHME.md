@@ -132,3 +132,15 @@ LAB TIME
 ![IMAGE](assets/img/LinkedList)
 @snapend
 
+---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+
+@snap[east span-50 text-center]
+#### Final 
+@snapend
+
+@snap[south-east span-50 text-center text-06]
+Doubly linked List
+<a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/README.md#singly-vs-doubly-linked-list"> Starter code</a>
+Summary, Q&A, plus assign homework.</a>
+@snapend
+
