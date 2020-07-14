@@ -11,7 +11,7 @@
 
 @snap[west span-55]
 @ul[list-hide-fragments text-09]
-<p align="left" style="font-size:9px"> By the end of class, students will be able to:</p>
+<p align="left" style="font-size:14px"> By the end of class, students will be able to:</p>
 - Compare and contrast between Array (List) vs. Linked List.
 - Differentiate between Static Arrays, Dynamic Arrays.
 - Understand Memory allocation, and Linked List don't need to be contiguous.
