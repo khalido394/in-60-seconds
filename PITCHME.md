@@ -11,7 +11,7 @@
 @snapend
 
 @snap[west span-55]
-@ul[list-spaced-bullets text-09]
+@ul[list-hide-fragments text-07]
 By the end of class, students will be able to:
 - Compare and contrast between Array (List) vs. Linked List.
 - Differentiate between Static Arrays (Lists), Dynamic Arrays (Lists).
