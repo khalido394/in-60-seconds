@@ -46,20 +46,14 @@
 ![IMAGE](assets/img/presentation.png)
 
 ---?color=linear-gradient(180deg, white 90%, #73A2DB 10%)
-@snap[west span-55]
+@snap[north-west span-55]
 ### Arrays "List"
 @snapend
-@title[Customize Slide Layout]
-
-
 
 @snap[north-east span-45]
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
-@snap[south span-100]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
 ---
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
