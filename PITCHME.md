@@ -66,7 +66,7 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 Let your code do the talking!
 @snapend
 
-Search, Access, Insertion and Deletion	
+<h6 align="left">Search, Access, Insertion and Deletion</h6>
 ```python zoom-18"
 O(n)	O(n)	O(1)	O(1)
 ```
