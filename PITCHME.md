@@ -37,6 +37,10 @@ You will be able to:
 @ulend
 @snapend
 
+@snap[east span-45]
+![IMAGE](assets/img/conference.png)
+@snapend
+
 ---
 ### Teacher Talk
 ![IMAGE](assets/img/presentation.png)
