@@ -13,9 +13,11 @@
 @ul[list-hide-fragments text-09]
 <p align="left" style="font-size:8px"></p>
 <p align="left" style="font-size:20px"> By the end of class, you will be able to:</p>
+<p style="font-size:8px">
 - Compare and contrast between Array (List) vs. Linked List.
 - Differentiate between Static Arrays, Dynamic Arrays.
 - Understand Memory allocation, and Linked List don't need to be contiguous.
+</p>
 @ulend
 @snapend
 
