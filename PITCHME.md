@@ -6,7 +6,7 @@
 
 @snap[south-east span-50 text-center text-06]
 
-[Lesson Plan@fa[external-link](https://drive.google.com/file/d/1sCvCcs6VC7hmE2gKQqd1jS8jlCIHfGxP) -
+[Lesson Plan@fa[external-link](https://drive.google.com/file/d/1sCvCcs6VC7hmE2gKQqd1jS8jlCIHfGxP)
 [Download](https://drive.google.com/uc?id=1sCvCcs6VC7hmE2gKQqd1jS8jlCIHfGxP&export=download)
 
 @snapend
