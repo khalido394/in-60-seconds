@@ -87,7 +87,7 @@
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
-@snap[west span-78]
+@snap[west span-85]
 ![IMAGE](assets/img/SinglyLL.png)
 @snapend
 
