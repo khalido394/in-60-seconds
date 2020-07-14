@@ -50,7 +50,7 @@
 ### Arrays "List"
 @snapend
 
-@snap[north-east span-30]
+@snap[north-east span-25]
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
