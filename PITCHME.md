@@ -63,11 +63,11 @@
 #### Memory allocation
 @snapend
 
-@snap[north-east span-25]
+@snap[north-west span-25]
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
-@snap[span-55]
+@snap[east span-55]
 ![IMAGE](assets/img/Memory%20allocation)
 @snapend
 
