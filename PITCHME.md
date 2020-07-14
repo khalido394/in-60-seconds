@@ -54,7 +54,7 @@
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
-@snap[west span-65]
+@snap[west span-55]
 ![IMAGE](assets/img/Arrays-List)
 @snapend
 
