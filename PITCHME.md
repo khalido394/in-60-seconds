@@ -1,4 +1,4 @@
-<a target="_blank" href="https://www.makeschool.com/"><img src="logo-grey.png" width = "25%"></a>
+<a target="_blank" href="https://www.makeschool.com/"><img src="logo-grey.png" width = "25%" align="left"></a>
 # Linked List
 - what is a list “array” and what it's types?
 - why do we need a _Linked one?_
