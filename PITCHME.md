@@ -60,7 +60,7 @@
 
 ---
 ---?color=linear-gradient(180deg, white 95%, #73A2DB 5%)
-@snap[south-east span-30]
+@snap[south-east span-25]
 ### Memory allocation
 @snapend
 
@@ -68,7 +68,7 @@
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
-@snap[west span-78]
+@snap[west span-70]
 ![IMAGE](assets/img/Memory%20allocation)
 @snapend
 
