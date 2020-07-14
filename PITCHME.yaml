@@ -8,7 +8,7 @@
 theme            : template
 
 theme-background : [ "linear-gradient(100deg, white 90%, #BE5869 10%)" ]
-theme-headline   : [ "Montserrat", "#000000", "none" ]
+theme-headline   : [ "Montserrat", "#3D78D1", "none" ]
 theme-byline     : [ "Montserrat", "#111111", "none" ]
 theme-text       : [ "Raleway", "#333", "none" ]
 theme-links      : [ "#7FDBFF", "#0074D9" ]
