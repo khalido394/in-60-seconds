@@ -11,7 +11,7 @@
 #### Outcomes
 @snapend
 
-@snap[west span-25]
+@snap[west span-125]
 @ul[list-spaced-bullets text-09]
 By the end of class, students will be able to:
 - Compare and contrast between Array (List) vs. Linked List.
