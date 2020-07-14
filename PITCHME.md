@@ -45,11 +45,10 @@
 ### Teacher Talk
 ![IMAGE](assets/img/presentation.png)
 
----
+---?color=linear-gradient(180deg, white 90%, blue 10%)
 @snap[west span-55]
 ### Arrays "List"
 @snapend
-?color=linear-gradient(180deg, white 90%, blue 10%)
 @title[Customize Slide Layout]
 
 
