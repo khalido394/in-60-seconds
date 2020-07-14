@@ -29,12 +29,24 @@ By the end of class, students will be able to:
 @snapend
 
 ---
+#### Outcomes
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
 - Write and apply Linked List main functions.
 - Explain what the Big-O benefits in some methods compared to the arrays.
 - Explain the differences only from Singly vs. Doubly linked List (Not the code for the doubly) this will be in the next sessions. 
----
-- With a **little imagination**
----
+@ulend
+@snapend
+
+@snap[east span-45]
+![IMAGE](assets/img/conference.png)
+@snapend
+
+@snap[south span-100 bg-black fragment]
+@img[shadow](assets/img/conference.png)
+@snapend
 ### Teacher Talk
 ![IMAGE](assets/img/presentation.png)
 
