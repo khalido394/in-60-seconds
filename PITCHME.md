@@ -142,6 +142,7 @@ LAB TIME
 @snap[south-east span-50 text-center text-13]
 Doubly linked List
 <a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/README.md#singly-vs-doubly-linked-list"> Starter code </a>
-<p align="center" style="font-size:20px"><em>Also, check the homework!</em></p>
+<p align="center" style="font-size:20px"><em>Also, check the </em></p>
+<a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/README.md#homework">homework</a>!
 @snapend
 
