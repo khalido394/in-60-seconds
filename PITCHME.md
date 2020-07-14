@@ -72,7 +72,7 @@
 @snapend
 
 ---?color=linear-gradient(180deg, white 97%, #73A2DB 3%)
-@snap[east span-30]
+@snap[north span-30]
 #### Linked List
 @snapend
 
@@ -83,6 +83,25 @@
 @snap[west span-78]
 ![IMAGE](assets/img/SinglyLL.png)
 @snapend
+
+<a target="_blank" href="https://khalido394.github.io/Linked-List-20min_Lesson/">Worksheet & Group Challenges</a>
+
+---
+@snap[north-east span-100 text-pink text-06]
+Let your code do the talking!
+### Big-O
+@snapend
+
+<h6 align="left">Edit - Search, Access, Insertion and Deletion</h6>
+```python zoom-18"
+O(n)	O(n)	O(1)	O(1)
+```
+@snap[south span-90 text-gray text-18]
+@[1-5](Deletion "from the end"!)
+@[6,7, zoom-13](if you have a Singly Linked List without a tail Deletion will be `O(n)`.)
+@[8-9, zoom-12](Check each method, and try to analyze it)
+@snapend
+
 
 ---?color=linear-gradient(180deg, white 97%, #73A2DB 3%)
 @snap[east span-30]
@@ -95,22 +114,6 @@
 
 @snap[west span-78]
 ![IMAGE](assets/img/LinkedList)
-@snapend
-
----
-@snap[north-east span-100 text-pink text-06]
-Let your code do the talking!
-### Big-O
-@snapend
-
-<h6 align="left">Search, Access, Insertion and Deletion</h6>
-```python zoom-18"
-O(n)	O(n)	O(1)	O(1)
-```
-@snap[south span-90 text-gray text-18]
-@[1-5](Deletion "from the end"!)
-@[6,7, zoom-13](if you have a Singly Linked List without a tail Deletion will be `O(n)`.)
-@[8-9, zoom-12](Check each method, and try to analyze it)
 @snapend
 
 
