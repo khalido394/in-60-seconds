@@ -106,11 +106,11 @@ Traverse/Find, Insert, Delete :
 At the Beginning, Middle, and the End:
 
 ```python zoom-18
-O(n)	O(n)	O(1)	O(1),  
+O(1)	O(n)  O(n)  T
 ```
 
 <br>
-all `O(1)` S
+All `O(1)` S
 @snapend
 
 
