@@ -6,7 +6,6 @@
 
 ---
 @title[Add A Little Imagination]
-
 @snap[north-west span-50 text-center]
 #### Outcomes
 @snapend
@@ -25,6 +24,8 @@ By the end of class, students will be able to:
 @snapend
 
 ---
+@title[Add A Little Imagination]
+@snap[north-west span-50 text-center]
 #### Outcomes
 @snapend
 
