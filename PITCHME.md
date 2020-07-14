@@ -7,10 +7,10 @@
 @title[Add A Little Imagination]
 @snap[north-west span-50 text-center]
 #### Outcomes
-@snapend
-
 <p align="left" style="font-size:8px"></p>
 <p align="left" style="font-size:20px"> By the end of class, you will be able to:</p>
+@snapend
+
 @snap[west span-55]
 @ul[list-hide-fragments text-08]
 - Compare and contrast between Array (List) vs. Linked List.
