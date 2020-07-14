@@ -3,8 +3,36 @@
 # Linked List
 - what is a list “array” and what it's types?
 - why do we need a _Linked one?_
----
 
+---
+@title[Add A Little Imagination]
+
+@snap[north-west span-50 text-center]
+#### Outcomes
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-09]
+By the end of class, students will be able to:
+- Compare and contrast between Array (List) vs. Linked List.
+- Differentiate between Static Arrays (Lists), Dynamic Arrays (Lists).
+- Understand Memory allocation, and the Linked List is not contiguous in like the arrays.
+- Write and apply Linked List main functions.
+- Explain what the Big-O benefits in some methods compared to the arrays.
+- Explain the differences only from Singly vs. Doubly linked List (Not the code for the doubly) this will be in the next sessions. 
+- With a **little imagination**
+@ulend
+@snapend
+
+@snap[east span-45]
+![IMAGE](assets/img/conference.png)
+@snapend
+
+@snap[south span-100 bg-black fragment]
+@img[shadow](assets/img/conference.png)
+@snapend
+
+---
 ### Teacher Talk
 ![IMAGE](assets/img/presentation.png)
 
