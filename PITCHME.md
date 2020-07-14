@@ -48,13 +48,14 @@
 ---?color=linear-gradient(180deg, white 90%, #73A2DB 10%)
 @snap[north-west span-55]
 ### Arrays "List"
+<p align="left" style="font-size:8px"></p>
 @snapend
 
 @snap[north-east span-35]
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
-@snap[west span-55]
+@snap[west span-65]
 ![IMAGE](assets/img/Arrays-List)
 @snapend
 
