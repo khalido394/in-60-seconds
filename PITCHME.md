@@ -42,7 +42,7 @@
 @snapend
 
 ---
-### Teacher Talk
+### Instructor Talk
 ![IMAGE](assets/img/presentation.png)
 
 ---?color=linear-gradient(180deg, white 90%, #73A2DB 10%)
