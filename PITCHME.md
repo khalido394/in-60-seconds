@@ -58,7 +58,6 @@
 ![IMAGE](assets/img/Arrays-List)
 @snapend
 
----
 ---?color=linear-gradient(180deg, white 97%, #73A2DB 3%)
 @snap[south-east span-25]
 #### Memory allocation
