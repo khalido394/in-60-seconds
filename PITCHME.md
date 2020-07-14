@@ -9,10 +9,10 @@
 #### Outcomes
 @snapend
 
-@snap[west span-55]
-@ul[list-hide-fragments text-08]
 <p align="left" style="font-size:8px"></p>
 <p align="left" style="font-size:20px"> By the end of class, you will be able to:</p>
+@snap[west span-55]
+@ul[list-hide-fragments text-08]
 - Compare and contrast between Array (List) vs. Linked List.
 - Differentiate between Static Arrays, Dynamic Arrays.
 - Understand Memory allocation, and Linked List don't need to be contiguous.
