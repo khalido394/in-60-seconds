@@ -84,7 +84,9 @@
 ![IMAGE](assets/img/SinglyLL.png)
 @snapend
 
+@snap[south span-30]
 <a target="_blank" href="https://khalido394.github.io/Linked-List-20min_Lesson/">Worksheet & Group Challenges</a>
+@snapend
 
 ---
 @snap[north-east span-100 text-pink text-06]
