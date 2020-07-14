@@ -15,7 +15,7 @@
 @ul[list-hide-fragments text-08]
 - Compare and contrast between Array (List) vs. Linked List.
 - Differentiate between Static Arrays, and Dynamic Arrays.
-- Understand Memory allocation, and Linked List don't need to be contiguous.
+- Understand Memory allocation.
 @ulend
 @snapend
 
@@ -33,7 +33,7 @@
 @ul[list-spaced-bullets text-08]
 - Write and apply Linked List main functions.
 - Explain what the Big-O benefits in some methods compared to the arrays.
-- Explain the differences only from Singly vs. Doubly linked List (Not the code for the doubly) this will be in the next sessions. 
+- Explain the differences only from Singly vs. Doubly linked List. 
 @ulend
 @snapend
 
