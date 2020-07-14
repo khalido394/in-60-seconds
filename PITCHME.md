@@ -37,9 +37,6 @@ By the end of class, you will be able to:
 @snapend
 
 @snap[east span-45]
-Linked List design
-
-
 ![IMAGE](assets/img/conference.png)
 @snapend
 
