@@ -72,7 +72,7 @@ O(n)	O(n)	O(1)	O(1)
 ```
 <br>
 <p align="left">Deletion "from the end"!
-if you have a Singly Linked List without tail Deletion will be `O(n)`.
+if you have a Singly Linked List without a tail Deletion will be `O(n)`.
 </p>
 
 @snap[south span-100 text-gray text-08]
