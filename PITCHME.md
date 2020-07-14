@@ -90,18 +90,6 @@
 @snapend
 
 
----?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
-
-@snap[east span-50 text-center]
-## Now It's **Your** Turn
-@snapend
-
-@snap[south-east span-50 text-center text-06]
-LAB TIME
-<a target="_blank" href="https://khalido394.github.io/Linked-List-20min_Lesson/">Worksheet & Group Challenges</a>
-@snapend
-
-
 ---
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
@@ -116,6 +104,18 @@ O(n)	O(n)	O(1)	O(1)
 @[1-5](Deletion "from the end"!)
 @[6,7, zoom-13](if you have a Singly Linked List without a tail Deletion will be `O(n)`.)
 @[8-9, zoom-12](Check each method, and try to analyze it)
+@snapend
+
+
+---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+
+@snap[east span-50 text-center]
+## Now It's **Your** Turn
+@snapend
+
+@snap[south-east span-50 text-center text-06]
+LAB TIME
+<a target="_blank" href="https://khalido394.github.io/Linked-List-20min_Lesson/">Worksheet & Group Challenges</a>
 @snapend
 
 
