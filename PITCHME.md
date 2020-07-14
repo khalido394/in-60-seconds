@@ -100,11 +100,14 @@ S: space, T: time.
 @snapend
 
 Access Initialize, copy: `O(n)` ST
+<br>
 Traverse/Find, Insert, Delete :
+<br>
 At the Beginning, Middle, and the End:
 ```python zoom-18"
 O(n)	O(n)	O(1)	O(1),  
 ```
+<br>
 all `O(1)` S
 
 
@@ -143,7 +146,7 @@ LAB TIME
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
-### End 
+### The End! 
 ###### Summary, Q&A.
 @snapend
 
