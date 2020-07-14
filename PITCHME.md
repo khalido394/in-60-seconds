@@ -104,7 +104,7 @@ Traverse/Find, Insert, or Delete :
 <br>
 
 ```python zoom-18
-At the Beginning, Middle, and the End:
+At the beginning, middle, or the end:
 O(1)	O(n)  O(n)
 ```
 @snapend
