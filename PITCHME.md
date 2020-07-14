@@ -69,8 +69,6 @@ Let your code do the talking!
 ```python zoom-18"
 O(n)	O(n)	O(1)	O(1)
 ```
-<br>
-
 @snap[south span-100 text-gray text-18]
 @[1-5](Deletion "from the end"!)
 @[6,7, zoom-13](if you have a Singly Linked List without a tail Deletion will be `O(n)`.)
