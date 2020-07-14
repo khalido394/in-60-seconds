@@ -14,7 +14,7 @@
 @snap[west span-55]
 @ul[list-hide-fragments text-08]
 - Compare and contrast between Array (List) vs. Linked List.
-- Differentiate between Static Arrays, Dynamic Arrays.
+- Differentiate between Static Arrays, and Dynamic Arrays.
 - Understand Memory allocation, and Linked List don't need to be contiguous.
 @ulend
 @snapend
