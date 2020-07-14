@@ -98,13 +98,13 @@ Let your code do the talking!
 @snapend
 
 @snap[west text-08]
-Access Initialize, copy: `O(n)`
+Access, Initialize, or copy: `O(n)`
 <br>
-Traverse/Find, Insert, Delete :
+Traverse/Find, Insert, or Delete :
 <br>
-At the Beginning, Middle, and the End:
 
 ```python zoom-18
+At the Beginning, Middle, and the End:
 O(1)	O(n)  O(n)
 ```
 @snapend
