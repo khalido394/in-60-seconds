@@ -46,11 +46,11 @@
 ![IMAGE](assets/img/presentation.png)
 
 ---?color=linear-gradient(180deg, white 95%, #73A2DB 5%)
-@snap[south-east span-35]
+@snap[south-east span-30]
 ### Arrays "List"
 @snapend
 
-@snap[north-east span-35]
+@snap[north-east span-30]
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
