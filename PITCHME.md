@@ -130,7 +130,7 @@ LAB TIME
 
 ---?color=linear-gradient(180deg, white 97%, #73A2DB 3%)
 @snap[east span-30]
-#### Linked List Types
+
 @snapend
 
 @snap[north-east span-25]
@@ -138,6 +138,7 @@ LAB TIME
 @snapend
 
 @snap[west span-78]
+#### Linked List Types
 ![IMAGE](assets/img/LinkedList)
 @snapend
 
