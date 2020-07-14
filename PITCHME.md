@@ -67,7 +67,7 @@
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
-@snap[span-55]
+@snap[east span-55]
 ![IMAGE](assets/img/Memory%20allocation)
 @snapend
 
