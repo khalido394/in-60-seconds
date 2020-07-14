@@ -36,6 +36,7 @@ By the end of class, students will be able to:
 @ulend
 @snapend
 
+---
 ### Teacher Talk
 ![IMAGE](assets/img/presentation.png)
 
