@@ -28,10 +28,9 @@
 @snap[north-west span-50 text-center]
 #### Outcomes
 @snapend
-
+<p align="left" style="font-size:11px"></p>
 @snap[west span-55]
 @ul[text-bold list-spaced-bullets text-09]
-<p align="left" style="font-size:11px"></p>
 - Write and apply Linked List main functions.
 - Explain what the Big-O benefits in some methods compared to the arrays.
 - Explain the differences only from Singly vs. Doubly linked List (Not the code for the doubly) this will be in the next sessions. 
