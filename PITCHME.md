@@ -110,8 +110,8 @@ O(1)	O(n)  O(n)
 @snapend
 
 @snap[south span-90 text-gray text-18]
-@[1-5](if you have a Singly Linked List with a tail, deleting at the end will be `O(1)`.)
-@[6,7, zoom-13](Check each method, and try to analyze it)
+@[2, zoom-18](if you have a Singly Linked List with a tail, deleting at the end will be `O(1)`.)
+@[6,7](Check each method, and try to analyze it)
 @snapend
 
 
