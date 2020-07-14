@@ -1,5 +1,6 @@
-## Let's Get **Started**
 
+# Linked List
+## Let's Get **Started**
 ---
 
 ### Make School
