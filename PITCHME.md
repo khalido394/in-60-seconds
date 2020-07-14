@@ -94,12 +94,20 @@
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
 ### Big-O
+S: space, T: time.
+<h6 align="left"></h6>
+
 @snapend
 
-<h6 align="left">Edit - Search, Access, Insertion and Deletion</h6>
+Access Initialize, copy: `O(n)` ST
+Traverse/Find, Insert, Delete :
+At the Beginning, Middle, and the End:
 ```python zoom-18"
-O(n)	O(n)	O(1)	O(1)
+O(n)	O(n)	O(1)	O(1),  
 ```
+all `O(1)` S
+
+
 @snap[south span-90 text-gray text-18]
 @[1-5](Deletion "from the end"!)
 @[6,7, zoom-13](if you have a Singly Linked List without a tail Deletion will be `O(n)`.)
