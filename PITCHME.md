@@ -1,6 +1,6 @@
 
 # Linked List
-- what is a list “arrays” and what it's types?
+- what is a list “array” and what it's types?
 - why do we need a _Linked one?_
 ---
 
