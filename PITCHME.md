@@ -1,9 +1,10 @@
+theme-background : [ "green" ]
+
 # Let's Get **Started**
 
 ---
 
-### Add Some Slide Candy
-
+### Make School
 ![IMAGE](assets/img/presentation.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
