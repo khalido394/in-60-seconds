@@ -96,8 +96,8 @@
 ## Now It's **Your** Turn
 @snapend
 
+@snap[south-east span-50 text-center text-06]
 LAB TIME
-@snap[south span-30]
 <a target="_blank" href="https://khalido394.github.io/Linked-List-20min_Lesson/">Worksheet & Group Challenges</a>
 @snapend
 
