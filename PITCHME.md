@@ -1,6 +1,6 @@
 
 # Linked List
-#### what is a list “arrays”, and why do we need a Linked one?
+#### what is a list “arrays”, and why do we need a _Linked_ one?
 ---
 
 ### Make School
