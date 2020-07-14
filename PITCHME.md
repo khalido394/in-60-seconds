@@ -5,7 +5,7 @@
 - why do we need a _Linked one?_
 
 @snap[south-east span-50 text-center text-06]
-[Lesson Plan@fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+[Lesson Plan@fa[external-link]]()
 @snapend
 
 ---
@@ -104,21 +104,18 @@ Traverse/Find, Insert, or Delete :
 <br>
 
 ```python zoom-18
-At the beginning, middle, or the end:
+In the beginning, middle, or the end:
 O(1)	O(n)  O(n)
 ```
 @snapend
 
-
-
 @snap[south span-90 text-gray text-18]
-@[1-5](if you have a Singly Linked List with a tail Deletion will be `O(1)`.)
+@[1-5](if you have a Singly Linked List with a tail, deleting at the end will be `O(1)`.)
 @[6,7, zoom-13](Check each method, and try to analyze it)
 @snapend
 
 
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
-
 @snap[east span-50 text-center]
 ## Now It's **Your** Turn
 @snapend
@@ -143,7 +140,6 @@ LAB TIME
 @snapend
 
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
-
 @snap[east span-50 text-center]
 ### The End! 
 ###### Summary, Q&A.
