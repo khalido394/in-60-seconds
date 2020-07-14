@@ -71,6 +71,19 @@
 ![IMAGE](assets/img/Memory%20allocation)
 @snapend
 
+---?color=linear-gradient(180deg, white 97%, #73A2DB 3%)
+@snap[east span-30]
+#### Linked List
+@snapend
+
+@snap[north-east span-25]
+![IMAGE](assets/img/presentation.png)
+@snapend
+
+@snap[west span-78]
+![IMAGE](assets/img/LinkedList)
+@snapend
+
 ---
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
