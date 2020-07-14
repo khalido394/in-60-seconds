@@ -70,14 +70,11 @@ Let your code do the talking!
 O(n)	O(n)	O(1)	O(1)
 ```
 <br>
-<p align="left">Deletion "from the end"!
-if you have a Singly Linked List without a tail Deletion will be `O(n)`.
-</p>
 
 @snap[south span-100 text-gray text-18]
-@[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
-@[6,7, zoom-13](Using GitPitch live code presenting with optional annotations.)
-@[8-9, zoom-12](This means no more switching between your slide deck and IDE on stage.)
+@[1-5](Deletion "from the end"!)
+@[6,7, zoom-13](if you have a Singly Linked List without a tail Deletion will be `O(n)`.)
+@[8-9, zoom-12](Check each method, and try to analyze it)
 @snapend
 
 
