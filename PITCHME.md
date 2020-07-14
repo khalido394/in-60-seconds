@@ -1,8 +1,8 @@
 <a target="_blank" href="https://www.makeschool.com/"><img src="logo-grey.png" width = "25%" align="left"></a>
 <br><br>
 # Linked List
-- what is a list “array” and what it's types?
-- why do we need a _Linked one?_
+- What is a list “array” and what it's types?
+- Why do we need a _Linked one?_
 
 @snap[south-east span-50 text-center text-06]
 
