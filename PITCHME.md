@@ -81,6 +81,19 @@
 @snapend
 
 @snap[west span-78]
+![IMAGE](assets/img/SinglyLL.png)
+@snapend
+
+---?color=linear-gradient(180deg, white 97%, #73A2DB 3%)
+@snap[east span-30]
+#### Linked List Types
+@snapend
+
+@snap[north-east span-25]
+![IMAGE](assets/img/presentation.png)
+@snapend
+
+@snap[west span-78]
 ![IMAGE](assets/img/LinkedList)
 @snapend
 
