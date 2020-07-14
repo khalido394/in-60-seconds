@@ -3,6 +3,11 @@
 # Linked List
 - what is a list “array” and what it's types?
 - why do we need a _Linked one?_
+
+@snap[south-east span-50 text-center text-06]
+[Lesson Plan@fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+@snapend
+
 ---
 @title[Add A Little Imagination]
 @snap[north-west span-50 text-center]
@@ -84,9 +89,18 @@
 ![IMAGE](assets/img/SinglyLL.png)
 @snapend
 
+
+---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+
+@snap[east span-50 text-center]
+## Now It's **Your** Turn
+@snapend
+
+LAB TIME
 @snap[south span-30]
 <a target="_blank" href="https://khalido394.github.io/Linked-List-20min_Lesson/">Worksheet & Group Challenges</a>
 @snapend
+
 
 ---
 @snap[north-east span-100 text-pink text-06]
@@ -118,17 +132,3 @@ O(n)	O(n)	O(1)	O(1)
 ![IMAGE](assets/img/LinkedList)
 @snapend
 
-
----?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
-
-@snap[east span-50 text-center]
-## Now It's **Your** Turn
-@snapend
-
-@snap[south-east span-50 text-center text-06]
-[Download GitPitch Desktop @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
-
----
-LAB TIME
----
