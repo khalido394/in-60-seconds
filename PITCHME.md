@@ -15,7 +15,7 @@
 You will be able to:
 - Compare and contrast between Array (List) vs. Linked List.
 - Differentiate between Static Arrays, Dynamic Arrays.
-- Understand Memory allocation, Linked List is not contiguous.
+- Understand Memory allocation, and Linked List is not contiguous.
 @ulend
 @snapend
 
