@@ -52,11 +52,7 @@ footnote : "By: Khalid Alomari"
 #
 published : true
 
-#
-# Twitter Card Settings [Pro Only]
-# Doc: https://gitpitch.com/docs/settings/twitter-card
-#
+
 title : "Linked List"
 description : "Linked List 20 min Lesson"
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
-
+thumbnail : assets/img/logo-icononly.png
