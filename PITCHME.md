@@ -94,12 +94,11 @@
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
 ### Big-O
-S: space, T: time.
 <h6 align="left"></h6>
 @snapend
 
 @snap[west text-08]
-Access Initialize, copy: `O(n)` ST
+Access Initialize, copy: `O(n)`
 <br>
 Traverse/Find, Insert, Delete :
 <br>
@@ -108,9 +107,6 @@ At the Beginning, Middle, and the End:
 ```python zoom-18
 O(1)	O(n)  O(n)  T
 ```
-
-<br>
-All `O(1)` S
 @snapend
 
 
