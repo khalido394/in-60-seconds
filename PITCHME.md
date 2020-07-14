@@ -5,7 +5,7 @@
 - why do we need a _Linked one?_
 ---
 
-### Make School
+### Teacher Talk
 ![IMAGE](assets/img/presentation.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
@@ -22,33 +22,7 @@
 @snap[south span-100]
 Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
-
 ---
-@title[Add A Little Imagination]
-
-@snap[north-west span-50 text-center]
-#### Engage your Audience
-@snapend
-
-@snap[west span-55]
-@ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
-@ulend
-@snapend
-
-@snap[east span-45]
-![IMAGE](assets/img/conference.png)
-@snapend
-
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
-@snapend
-
----
-
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
 @snapend
