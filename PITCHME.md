@@ -96,9 +96,9 @@ Let your code do the talking!
 ### Big-O
 S: space, T: time.
 <h6 align="left"></h6>
-
 @snapend
 
+@snap[west text-08]
 Access Initialize, copy: `O(n)` ST
 <br>
 Traverse/Find, Insert, Delete :
@@ -109,6 +109,7 @@ O(n)	O(n)	O(1)	O(1),
 ```
 <br>
 all `O(1)` S
+@snapend
 
 
 @snap[south span-90 text-gray text-18]
