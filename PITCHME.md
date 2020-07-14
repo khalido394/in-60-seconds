@@ -46,8 +46,8 @@
 ![IMAGE](assets/img/presentation.png)
 
 ---?color=linear-gradient(180deg, white 95%, #73A2DB 5%)
-@snap[south-east span-30]
-### Arrays "List"
+@snap[east span-30]
+#### Arrays "List"
 @snapend
 
 @snap[north-east span-25]
@@ -59,7 +59,7 @@
 @snapend
 
 ---?color=linear-gradient(180deg, white 97%, #73A2DB 3%)
-@snap[south-east span-25]
+@snap[east span-25]
 #### Memory allocation
 @snapend
 
