@@ -4,7 +4,7 @@
 - what is a list “array” and what it's types?
 - why do we need a _Linked one?_
 <br>
-##### By: Khalid Alomari
+###### By: Khalid Alomari
 
 ---
 @title[Add A Little Imagination]
