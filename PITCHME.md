@@ -72,7 +72,7 @@ O(n)	O(n)	O(1)	O(1)
 ```
 <p align="left">P.S. Deletion "from the end"!
 if you have a Singly Linked List without tail Deletion will be `O(n)`.
-<\p>
+</p>
 
 @snap[south span-100 text-gray text-08]
 @[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
