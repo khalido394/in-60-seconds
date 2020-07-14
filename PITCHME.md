@@ -54,6 +54,10 @@
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
+@snap[west span-65]
+![IMAGE](assets/img/Arrays-List)
+@snapend
+
 ---
 @snap[north-east span-100 text-pink text-06]
 Let your code do the talking!
