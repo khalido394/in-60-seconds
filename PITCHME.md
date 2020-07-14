@@ -79,7 +79,7 @@
 @snapend
 
 ---?color=linear-gradient(180deg, white 97%, #73A2DB 3%)
-@snap[west span-40]
+@snap[north-west span-40]
 #### Linked List
 @snapend
 
