@@ -45,7 +45,7 @@
 ### Teacher Talk
 ![IMAGE](assets/img/presentation.png)
 
----?color=linear-gradient(180deg, white 90%, "#73A2DB" 10%)
+---?color=linear-gradient(180deg, white 90%, #73A2DB 10%)
 @snap[west span-55]
 ### Arrays "List"
 @snapend
