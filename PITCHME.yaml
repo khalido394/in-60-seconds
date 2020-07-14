@@ -28,11 +28,10 @@ highlight        : tomorrow
 #
 theme-override: assets/css/PITCHME.css
 
-#
+
 # Logo Setting
-# https://gitpitch.com/docs/settings/logo
-#
-logo : assets/img/logo.png
+
+logo : assets/img/logo-icononly.png
 logo-position : top-left
 
 #
@@ -57,7 +56,7 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing GitPitch Markdown Presentations for Developers."
+title : "Linked List"
+description : "Linked List 20 min Lesson"
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
