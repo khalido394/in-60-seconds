@@ -33,7 +33,7 @@
 @ul[list-spaced-bullets text-08]
 - Write and apply Linked List main functions.
 - Explain what the Big-O benefits in some methods compared to the arrays.
-- Explain the differences only from Singly vs. Doubly linked List. 
+- Explain the differences between Singly vs. Doubly linked List. 
 @ulend
 @snapend
 
