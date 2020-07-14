@@ -70,8 +70,9 @@ Let your code do the talking!
 ```python zoom-18"
 O(n)	O(n)	O(1)	O(1)
 ```
-P.S. Deletion "from the end"!
-if you have a Singly Linked List without tail Deletion will be `O(n)`: 
+<p align="left">P.S. Deletion "from the end"!
+if you have a Singly Linked List without tail Deletion will be `O(n)`.
+<\p>
 
 @snap[south span-100 text-gray text-08]
 @[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
