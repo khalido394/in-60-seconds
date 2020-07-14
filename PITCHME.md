@@ -105,13 +105,14 @@ Traverse/Find, Insert, Delete :
 <br>
 At the Beginning, Middle, and the End:
 
-```python zoom-18"
+```python zoom-18
 O(n)	O(n)	O(1)	O(1),  
 ```
-@snapend
 
 <br>
 all `O(1)` S
+@snapend
+
 
 
 @snap[south span-90 text-gray text-18]
