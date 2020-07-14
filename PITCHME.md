@@ -105,16 +105,15 @@ Traverse/Find, Insert, Delete :
 At the Beginning, Middle, and the End:
 
 ```python zoom-18
-O(1)	O(n)  O(n)  T
+O(1)	O(n)  O(n)
 ```
 @snapend
 
 
 
 @snap[south span-90 text-gray text-18]
-@[1-5](Deletion "from the end"!)
-@[6,7, zoom-13](if you have a Singly Linked List without a tail Deletion will be `O(n)`.)
-@[8-9, zoom-12](Check each method, and try to analyze it)
+@[1-5](if you have a Singly Linked List with a tail Deletion will be `O(1)`.)
+@[6,7, zoom-13](Check each method, and try to analyze it)
 @snapend
 
 
