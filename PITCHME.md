@@ -113,7 +113,6 @@ In the beginning, middle, or the end:
 O(1)    O(n)    O(n)
 ```
 @snapend
-@gist[groovy zoom-12](onetapbeyond/8da53731fd54bab9d5c6)
 @snap[south span-90 text-gray text-18]
 @[1, zoom-1](Try to guess the `Big-O` for these methods.)
 @[1, zoom-2](if you have a Linked List with a tail, deleting at the end will be `O(1)`.)
