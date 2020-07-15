@@ -115,11 +115,11 @@ In the beginning, middle, or the end:
 @[1-2, zoom-14](if you have a Linked List with a tail, deleting at the end will be `O(1)`.)
 @[1-2](Check each method, and try to analyze it.)
 
+
+@snapend
 ```python zoom-14
 O(1)    O(n)    O(n)
 ```
-@snapend
-
 
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 @snap[east span-50 text-center]
