@@ -106,16 +106,16 @@ Initialize, or copy: `O(n)`
 Traverse/Find, Insert, or Delete :
 <br>
 
-```python zoom-1
+```python zoom-16
 In the beginning, middle, or the end:
 ```
-```python zoom-2
+```python zoom-18
 O(1)    O(n)    O(n)
 ```
 @snapend
 @snap[south span-90 text-gray text-18]
-@[1, zoom-1](Try to guess the `Big-O` for these methods.)
-@[1, zoom-2](if you have a Linked List with a tail, deleting at the end will be `O(1)`.)
+@[1, zoom-16](Try to guess the `Big-O` for these methods.)
+@[1-2, zoom-18](if you have a Linked List with a tail, deleting at the end will be `O(1)`.)
 @[1-2](Check each method, and try to analyze it.)
 @snapend
 
