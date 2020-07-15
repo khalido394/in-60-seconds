@@ -101,7 +101,7 @@ Let your code do the talking!
 @snapend
 
 @snap[west text-08]
-Initialize, or copy: `O(n)`
+Access, Initialize, or Copy: `O(n)`
 <br>
 Traverse/Find, Insert, or Delete :
 <br>
