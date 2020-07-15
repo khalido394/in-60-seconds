@@ -112,8 +112,8 @@ O(1)    O(n)    O(n)
 ```
 @snapend
 @snap[south span-90 text-gray text-18]
-@[1, zoom-12](Try to guess the `Big-O` for these methods.)
-@[1-2, zoom-12](if you have a Linked List with a tail, deleting at the end will be `O(1)`.)
+@[1, zoom-14](Try to guess the `Big-O` for these methods.)
+@[1-2, zoom-14](if you have a Linked List with a tail, deleting at the end will be `O(1)`.)
 @[1-2](Check each method, and try to analyze it.)
 @snapend
 
